@@ -1,8 +1,9 @@
- Awesome Internships [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# Awesome OSS Programs 
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 > A curated list of open-source internships resources ✨
 
-A list of open-source internships/programs to gain coding experience (apply now)
+A list of open-source internships/programs to gain coding experience.
 
 ## Contents
 
@@ -10,14 +11,14 @@ A list of open-source internships/programs to gain coding experience (apply now)
 - [Incubators](#incubators)
 - [Internships](#internships)
 
-# Accelerators
+## Accelerators
 - [GitHub Accelerator](https://accelerator.github.com/) - Our first class of fellows will participate in a 10-week accelerator program where they will receive an initial sponsorship as well as mentorship from open source leaders and enterprise partners on how to grow their projects and build durable streams of funding.
 
-# Incubators
+## Incubators
 - [Primary NYC Founders Fellowship: Open Source](https://www.primary.vc/firstedition/posts/cohort-four-primary-nyc-founders-fellowship-open-source) - The NYC Founders Fellowship is designed to coach you on all of these skills to become an exceptional founder, making room for lots of analysis, experimentation, and peer support. If this is of interest to you, you have come to the right place. This program is completely tailored to match the interests of aspiring founders.
 - [Mozilla Builders Incubator](https://builders.mozilla.community/) - Mozilla Builders was an experimental incubator program run throughout 2020. We invested in 80+ people, projects, and technologies reshaping the internet.
 
-# Internships
+## Internships
 - [MLH Open Source Fellowship](https://fellowship.mlh.io/) - A fully remote, 12-week internship where participants earn a stipend and learn to collaborate on real open source projects with peers and engineers from top companies.
 
 - [Outreachy](https://www.outreachy.org/) - Provides internships to people subject to systemic bias and impacted by underrepresentation in the technical industry where they are living.
